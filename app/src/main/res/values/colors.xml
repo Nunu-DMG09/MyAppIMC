@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <!-- Azul principal -->
+    <color name="white">#FFFFFFFF</color
     <color name="blue_primary">#2196F3</color>
     <color name="blue_primary_dark">#1976D2</color>
     <color name="blue_accent">#64B5F6</color>
-
-    <!-- Azules adicionales -->
     <color name="blue_light">#BBDEFB</color>
     <color name="blue_medium">#42A5F5</color>
     <color name="blue_deep">#0D47A1</color>
     <color name="blue_navy">#1565C0</color>
-
-    <!-- Tonos suaves -->
     <color name="blue_sky">#E3F2FD</color>
     <color name="blue_gray">#90A4AE</color>
 </resources>
